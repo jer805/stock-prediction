@@ -1,7 +1,7 @@
 # stock-prediction
-This jupyter notebook illustrates three strategies used to make trading decisions for auto manufacturer symbols and mobile provider symbols separately. Examiend strategies include a moving average crossover trading strategy, as well as trading based on predicted probabilities produced by training a neural network on historical data and a buy and hold strategy. Stock data is scraped in the script using the pandas data reader module.
+This jupyter notebook illustrates three strategies used to make trading decisions for auto manufacturer symbols and mobile provider symbols separately. Examined strategies include a moving average crossover trading strategy, as well as trading based on predicted probabilities produced by training a neural network on historical data and a buy and hold strategy. Stock data is scraped in the script using the pandas data reader module.
 
-## Moving average crossover Sstrategy
+## Moving average crossover strategy
 Returns are visualized from trading on days when the fast moving average crosses over the slow moving average.
 
 ## Buy and hold SPY
