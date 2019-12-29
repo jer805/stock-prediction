@@ -9,3 +9,13 @@ Returns are visualized from the simpler strategy of buying and holding each give
 
 ## Trading decisions based on neural network predictions
 The CNTK module is used to train a neural network on stock data. We make trading decisions based on predictions from this neural network and compare them against the returns from the other strategies.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EGKFM5WGL2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EGKFM5WGL2');
+</script>
